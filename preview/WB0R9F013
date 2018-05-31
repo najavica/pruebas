@@ -1,0 +1,253 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lugada - Landing Page Template</title>
+
+    <!--Favicons -->
+    <link rel="shortcut icon" href="assets/favicon.ico">
+
+     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
+
+
+	<link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css" media="screen">	
+	<link rel="stylesheet" type="text/css" href="assets/style.css" media="screen">
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-64308715-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+
+</head>
+<body>
+
+    <!-- Preloader -->
+    <div class="animationload">
+        <div class="loader">
+            Loading...
+        </div>
+    </div> 
+    <!-- End Preloader -->
+
+	<!-- Container -->
+	<div id="container">
+		<!-- Header
+		    ================================================== -->
+		
+		<!-- content  -->
+		<div id="content" class="choose">			
+			<div class="container">
+				<h1>CHOOSE YOUR DEMO <small>v1.2.1</small></h1>
+
+
+				<!-- <a href="https://wrapbootstrap.com/theme/lugada-landing-page-template-WB0R9F013?ref=themesdesign" class="btn btn-custom btnlg" target="_blank">Download Now</a> -->	
+
+				<div class="row">
+					<div class="col-sm-4 col-sm-offset-2">
+						<a href="layout2" class="choose-item" target="_blank">
+							<img src="assets/layout2.png" alt="">
+						</a>
+						<h3 class="title">Layout 2 - Home</h3>
+						<a href="layout2" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="layout2-slider" class="choose-item" target="_blank">
+							<img src="assets/layout2-slider.png" alt="">
+						</a>
+						<h3 class="title">Layout 2 - Slider</h3>
+						<a href="layout2-slider" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="sticky" class="choose-item" target="_blank">
+							<img src="assets/sticky.png" alt="">
+						</a>
+						<h3 class="title">Home - Sticky</h3>
+						<a href="sticky" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="sticky-topbar" class="choose-item" target="_blank">
+							<img src="assets/sticky-topbar.png" alt="">
+						</a>
+						<h3 class="title">Sticky with Topbar</h3>
+						<a href="sticky-topbar" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="blog" class="choose-item" target="_blank">
+							<img src="assets/blog.png" alt="">
+						</a>
+						<h3 class="title">Blog</h3>
+						<a href="blog" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="default" class="choose-item" target="_blank">
+							<img src="assets/default-bg.png" alt="">
+						</a>
+						<h3 class="title">Default</h3>
+						<a href="default" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+					<div class="col-sm-4">
+						<a href="bg-image" class="choose-item" target="_blank">
+							<img src="assets/bg-img.png" alt="">
+						</a>
+						<h3 class="title">Background Image</h3>
+						<a href="bg-image" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+					<div class="col-sm-4">
+						<a href="full-slide-show" class="choose-item" target="_blank">
+							<img src="assets/full-screen-bg.png" alt="">
+						</a>
+						<h3 class="title">Background slideshow</h3>
+						<a href="full-slide-show" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="full-image" class="choose-item" target="_blank">
+							<img src="assets/full-img.png" alt="">
+						</a>
+						<h3 class="title">Full Screen Image</h3>
+						<a href="full-image" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+					<div class="col-sm-4">
+						<a href="full-video" class="choose-item" target="_blank">
+							<img src="assets/bg-video.png" alt="">
+						</a>
+						<h3 class="title">Full Screen Video</h3>
+						<a href="full-video" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+					<div class="col-sm-4">
+						<a href="text-rotate" class="choose-item" target="_blank">
+							<img src="assets/rotate.png" alt="">
+						</a>
+						<h3 class="title">Text-rotate</h3>
+						<a href="text-rotate" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="typed" class="choose-item" target="_blank">
+							<img src="assets/typed-bg.png" alt="">
+						</a>
+						<h3 class="title">Typed</h3>
+						<a href="typed" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="slider" class="choose-item" target="_blank">
+							<img src="assets/slider_main.png" alt="">
+						</a>
+						<h3 class="title">Home-Slider </h3>
+						<a href="slider" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="header-2" class="choose-item" target="_blank">
+							<img src="assets/header_1.png" alt="">
+						</a>
+						<h3 class="title">Header Style-2</h3>
+						<a href="header-2" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="register" class="choose-item" target="_blank">
+							<img src="assets/register-hm.png" alt="">
+						</a>
+						<h3 class="title">Home - Register</h3>
+						<a href="register" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="subscribe" class="choose-item" target="_blank">
+							<img src="assets/subscribe-hm.png" alt="">
+						</a>
+						<h3 class="title">Home - Subscribe </h3>
+						<a href="subscribe" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="countdown" class="choose-item" target="_blank">
+							<img src="assets/CountD.png" alt="">
+						</a>
+						<h3 class="title">Home  - Countdown</h3>
+						<a href="countdown" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="goverlay" class="choose-item" target="_blank">
+							<img src="assets/img-bg-over.png" alt="">
+						</a>
+						<h3 class="title">Gradient Overlay</h3>
+						<a href="goverlay" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="animation" class="choose-item" target="_blank">
+							<img src="assets/animation.png" alt="">
+						</a>
+						<h3 class="title">Home - Animation</h3>
+						<a href="animation" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+					<div class="col-sm-4">
+						<a href="comingsoon1" class="choose-item" target="_blank">
+							<img src="assets/bg-c-cs.png" alt="">
+						</a>
+						<h3 class="title">Comingsoon - Gradient</h3>
+						<a href="comingsoon1" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4 col-sm-offset-4">
+						<a href="comingsoon2" class="choose-item" target="_blank">
+							<img src="assets/slideshow-CC.png" alt="">
+						</a>
+						<h3 class="title">Comingsoon - Slideshow</h3>
+						<a href="comingsoon2" class="btn btn-custom" target="_blank">View Demo</a>
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+		<!-- End content -->
+
+
+		<footer class="footer">
+			<div class="container text-center">
+			<p>© 2015 Coderthemes.</p>
+		</div>
+		</footer>
+	<!-- jQuery -->
+    <script src="assets/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/SmoothScroll.js"></script>
+	<script type="text/javascript" src="assets/custom.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Assist - Angular 5 Bootstrap 4 admin dashboard template</title><base href="/"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"><link href="styles.5ced2488f0c87c85bdf1.bundle.css" rel="stylesheet"/></head><body><app><div class="overlay"></div><div class="loader loader-2"><span></span> <span></span> <span></span> <span></span> <span></span></div></app><script type="text/javascript" src="inline.97415964d6c3eec5f215.bundle.js"></script><script type="text/javascript" src="polyfills.4e000c15106b4e0ae8a3.bundle.js"></script><script type="text/javascript" src="scripts.08dfaf8349d9f941beff.bundle.js"></script><script type="text/javascript" src="main.a5daf8721751fcec8cbe.bundle.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101652884-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body></html>

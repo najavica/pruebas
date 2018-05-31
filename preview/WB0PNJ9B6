@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<title>IsisOne - Personal or Agency Portfolio</title>
+		<meta name="description" content="" />
+		<meta name="Author" content="Dorin Grigoras [www.stepofweb.com]" />
+
+		<!--[if lt IE 9]>
+			<script type="text/javascript" src="assets/plugins/lt-ie9/html5.js"></script>
+			<script type="text/javascript" src="assets/plugins/lt-ie9/respond.min.js"></script>
+			<script type="text/javascript" src="assets/plugins/lt-ie9/excanvas.compiled.js"></script>
+		<![endif]--> 
+
+		<!-- GOOGLE FONTS -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Dosis:300,400" rel="stylesheet" type="text/css" />
+
+
+		<!-- CORE CSS FRAMEWORK -->
+		<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<link href="assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+
+		<!-- CSS TEMPLATE -->
+		<link href="assets/css/reset.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/framework.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/typography.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/splash.css" rel="stylesheet" type="text/css" />
+
+		<!-- ICONS -->
+		<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />
+		<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+
+		<!-- mobile settings -->
+		<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+	</head>
+	<body>
+
+	
+
+		<header class="text-center">
+			<img src="assets/images/logo/100x100/white.png" width="70" height="70" alt="Isis One" />
+			<h1>~ISIS ONE~</h1>
+			<p><small>Personal &amp; Agency Portfolio, Application, Countdown, Blog, 404 Page</small></p>
+		</header>
+
+		
+
+		<div class="container text-center">
+
+			<div class="divider"><h2>PERSONAL</h2></div>
+
+			<div class="row">
+				<div class="col-md-4">
+					<a class="item" href="index-personal-full.html">
+						<img class="img-responsive" src="assets/images/preview/splash/personal_1.jpg" alt="" />
+					</a>
+					<h3>Full Slider</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="index-personal-half.html">
+						<img class="img-responsive" src="assets/images/preview/splash/personal_2.jpg" alt="" />
+					</a>
+					<h3>Half Slider</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="index-personal-video.html">
+						<img class="img-responsive" src="assets/images/preview/splash/personal_3.jpg" alt="" />
+					</a>
+					<h3>Full Video</h3>
+				</div>
+			</div>
+
+			<div class="divider"><h2>AGENCY</h2></div>
+
+			<div class="row">
+				<div class="col-md-4">
+					<a class="item" href="index-agency-full.html">
+						<img class="img-responsive" src="assets/images/preview/splash/agency_1.jpg" alt="" />
+					</a>
+					<h3>Full Slider</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="index-agency-half.html">
+						<img class="img-responsive" src="assets/images/preview/splash/agency_2.jpg" alt="" />
+					</a>
+					<h3>Half Slider</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="index-agency-video.html">
+						<img class="img-responsive" src="assets/images/preview/splash/agency_3.jpg" alt="" />
+					</a>
+					<h3>Full Video</h3>
+				</div>
+			</div>
+
+
+			<div class="divider"><h2>APPLICATION</h2></div>
+
+			<div class="row">
+				<div class="col-md-4">
+					<a class="item" href="index-application-full.html">
+						<img class="img-responsive" src="assets/images/preview/splash/app_1.jpg" alt="" />
+					</a>
+					<h3>Full Slider</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="index-application-half.html">
+						<img class="img-responsive" src="assets/images/preview/splash/app_2.jpg" alt="" />
+					</a>
+					<h3>Half Slider</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="index-application-video.html">
+						<img class="img-responsive" src="assets/images/preview/splash/app_3.jpg" alt="" />
+					</a>
+					<h3>Full Video</h3>
+				</div>
+			</div>
+
+			<div class="divider"><h2>MISC</h2></div>
+
+			<div class="row">
+				<div class="col-md-4">
+					<a class="item" href="countdown-image.html">
+						<img class="img-responsive" src="assets/images/preview/splash/misc_1.jpg" alt="" />
+					</a>
+					<h3>Count Down - Image</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="countdown-video.html">
+						<img class="img-responsive" src="assets/images/preview/splash/misc_2.jpg" alt="" />
+					</a>
+					<h3>Count Down - Video</h3>
+				</div>
+				<div class="col-md-4">
+					<a class="item" href="404.html">
+						<img class="img-responsive" src="assets/images/preview/splash/misc_3.jpg" alt="" />
+					</a>
+					<h3>404 Not Found</h3>
+				</div>
+			</div>
+
+		</div>
+
+		<script type="text/javascript">
+			if(document.location.protocol === 'file:') {
+				alert("Video Backgrounds and PHP scripts do not works on files.\nPlease upload to a webserver.");
+			}
+		</script>
+
+	</body>
+</html>
